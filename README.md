@@ -1,7 +1,6 @@
 # 🎓 Student Record Management System (Java)
 
-## 📌 Overview
-This project is a **Java-based Student Record Management System** developed as part of **Java Lab Assignment 1** at Netaji Subhas University of Technology (NSUT), Delhi.  
+## 📌 Overview  
 It demonstrates the use of **Object-Oriented Programming (OOP)** concepts, arrays/collections, and menu-driven interaction for managing student records.
 
 ---
